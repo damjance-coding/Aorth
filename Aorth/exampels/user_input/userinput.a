@@ -1,0 +1,3 @@
+
+getinput num "Enter your favorite number"
+if pop == 7 then print "Same" else print "Cool!"

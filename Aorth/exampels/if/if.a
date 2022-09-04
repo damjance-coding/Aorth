@@ -1,0 +1,6 @@
+
+#Supported if types u can see in parser.py i will demonstrate only one here
+
+push 80
+dupl
+if pop == 80 then print "foo" else print "bar" 

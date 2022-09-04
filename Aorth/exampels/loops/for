@@ -1,0 +1,5 @@
+#This is only supported loop
+
+for item in stack start pop end 
+
+# U can use any statement but it can be only 1 statement

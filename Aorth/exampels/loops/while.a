@@ -1,0 +1,2 @@
+#Only supported while loop currently is infinite loop
+while True start print "foo" end

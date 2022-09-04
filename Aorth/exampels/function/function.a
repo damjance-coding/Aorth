@@ -1,0 +1,4 @@
+fun <foo> start print "bar" end
+call <foo>
+
+#Functions can only have one statement and must start and end with <>

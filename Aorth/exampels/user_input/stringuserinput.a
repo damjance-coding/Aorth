@@ -1,0 +1,5 @@
+
+getinput str "Enter your name"
+
+if name == "Aleksandra" then print "retard" else print "Nice name"
+
