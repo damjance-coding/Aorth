@@ -4,6 +4,10 @@
 Aorth is a [stack-based programming lengague](https://en.wikipedia.org/wiki/Stack-oriented_programming) 
 Aorth is like forth, created in python , idea was stoled by [tscodig](https://github.com/tsoding)
 
+
+
+
+
 ## WARNING
 
 DO NOT USE THIS LANGUAGE IN PRODUCTION ITS NOT FINISHED
@@ -14,9 +18,18 @@ DO NOT USE THIS LANGUAGE IN PRODUCTION ITS NOT FINISHED
 clone https://github.com/damjance-coding/Aorth
 ```
 
+## Dependecies
+gcc
+python3
+
+## How it works
+
+Aorth reads the files , lex them , pars them and then generate the c code
+Aorth automaticlly removes c files that it generated after compiling them if u want to stop that remove it in com/aorth.py
+
 ## Compiling
 ```bash
-aorth.py file.a
+python3 aorth.py file.a
 ```
 
 ## Hello, World!
